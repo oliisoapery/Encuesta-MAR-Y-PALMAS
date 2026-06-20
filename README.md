@@ -1,2 +1,2 @@
-# Encuesta-MAR-Y-PALMAS
-Herramienta de encuesta para la urbanizacion
+# Mar y Palmas
+Sube estos archivos a GitHub y activa GitHub Pages.
